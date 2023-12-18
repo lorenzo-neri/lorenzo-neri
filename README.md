@@ -7,6 +7,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-neri&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </br>
+</br>
 [![](https://visitcount.itsvg.in/api?id=lorenzo-neri&icon=5&color=11)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
