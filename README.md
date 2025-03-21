@@ -5,6 +5,3 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lorenzo-neri-a32248262) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@lorenzoneri21) 
-
-# 📊 GitHub Stats:
-[![](https://visitcount.itsvg.in/api?id=lorenzo-neri&icon=5&color=11)](https://visitcount.itsvg.in)
